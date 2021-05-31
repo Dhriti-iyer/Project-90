@@ -18,6 +18,11 @@
 {
 	color:black;
 }	
+h4
+{
+  display: inline-block;
+  margin-left:10px;
+}
 
 #player1_input , #player2_input
 {
@@ -49,4 +54,8 @@ text-align: left;
 	border-radius: 50px;
 	width: 50px;
 	height:30px ;
+}
+span
+{
+	font-size: 20px;
 }
